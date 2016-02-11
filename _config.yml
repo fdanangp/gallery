@@ -6,3 +6,6 @@ url: https://fdanangp.github.io/gallery/
 author:
     name: Firdani Danang Prakoso
     twitter: #
+# SITE CONFIGURATION
+baseurl: "/blog" # the subpath of your site, e.g. /blog/
+url: "http://fdanangp.github.io" # the base hostname & protocol for your site
