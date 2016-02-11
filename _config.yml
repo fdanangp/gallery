@@ -1,8 +1,8 @@
-name: Photo gallery
+name: Gallery
 markdown: redcarpet
 pygments: true
 permalink: /:year/:month/:title/
-url: https://nadjetey.github.io/GridGallery/
+url: https://fdanangp.github.io/gallery/
 author:
-    name: Nii Adjetey Sowah
+    name: Firdani Danang Prakoso
     twitter: #
